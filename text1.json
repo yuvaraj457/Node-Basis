@@ -1,0 +1,20 @@
+[
+{
+    "id":1,
+"name" : "yuvaraj",
+"dob" : "04-05-1999",
+"team" : "LAMP"
+},
+{
+    "id":2,
+    "name" : "Raj",
+    "dob" : "04-05-1999",
+    "team" : "LAMP"
+},
+{
+    "id":3,
+    "name" : "Yuvi",
+    "dob" : "04-05-1999",
+    "team" : "Python"
+}
+]
